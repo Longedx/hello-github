@@ -1,0 +1,11 @@
+﻿# 常见忽略项
+__pycache__/
+*.pyc
+.venv/
+.env
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
